@@ -12,7 +12,7 @@
 <a href="https://twitter.com/karaodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karaodin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karaodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karaodin" height="30" width="40" /></a>
 <a href="https://fb.com/karaodiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karaodiin" height="30" width="40" /></a>
-<a href="https://instagram.com/kara_odin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kara_odin" height="30" width="40" /></a>
+<a href="https://instagram.com/karaodinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kara_odin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
